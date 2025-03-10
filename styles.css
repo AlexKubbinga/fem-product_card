@@ -6,22 +6,44 @@ body {
   width: 90%;
   background: white;
   border-radius: 12px;
+  max-width: 350px;
   overflow: hidden;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
 }
 
 .product-title {
   font-family: 'Fraunces', serif;
   font-weight: 700;
+  font-size: 2em;
+  margin: 5px 0;
 }
 
 .product-info {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
+  /* padding-left: 5%; */
 }
 
 .category , .product-description {
   color: hsl(228, 12%, 48%)
+}
+
+.category {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 0.7em;
+}
+
+.product-description {
+  font-size: 0.9em;
+  margin: 15px 0;
+  line-height: 1.7;
+  width: 91%;
 }
 
 .new-price {
@@ -33,9 +55,28 @@ body {
 
 .old-price {
   text-decoration: line-through;
-  color: hsl(228, 12%, 48%)
+  color: hsl(228, 12%, 48%);
+  font-size: 0.7em;
+}
+
+.add-to-cart {
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 0;
+  width: 80%;
 }
 
 button {
   background-color: hsl(158, 36%, 37%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 15px;
+  color: hsl(30, 38%, 92%);
+  font-weight: bold;
+}
+
+button:hover {
+  background-color:hsl(158, 42%, 18%);
 }
