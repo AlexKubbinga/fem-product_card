@@ -2,21 +2,6 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Solution site](#solution-site)
-    - [Screenshot](#screenshot)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,7 +10,9 @@ Recreate the product card component as seen on frontend mentor. The card compone
 
 ### Solution site
 
-[My Product Gard Github Pages Site](https://alexkubbinga.github.io/fem-product_card/)
+
+
+Click here to see the responsive product card I re-designed: [Product Gard Github Pages Site](https://alexkubbinga.github.io/fem-product_card/)
 
 ### Screenshot
 
