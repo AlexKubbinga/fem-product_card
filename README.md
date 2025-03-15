@@ -10,7 +10,9 @@ Recreate the product card component as seen on frontend mentor. The card compone
 
 ### Solution site
 
-[My Product Gard Github Pages Site](https://alexkubbinga.github.io/fem-product_card/)
+
+
+Click here to see the responsive product card I re-designed: [Product Gard Github Pages Site](https://alexkubbinga.github.io/fem-product_card/)
 
 ### Screenshot
 
